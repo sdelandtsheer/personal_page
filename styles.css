@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: 'Helvetica Neue', Arial, sans-serif;
-    background: linear-gradient(to bottom, #000000, #3b0066);
+    background: linear-gradient(to right, #000000, #3b0066);
     color: #ffffff;
 }
 
@@ -19,9 +19,8 @@ section {
 .profile-pic {
     display: block;
     margin: 0 auto 20px;
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
+    width: 100%;
+    height: auto;
 }
 
 h1, h2 {
