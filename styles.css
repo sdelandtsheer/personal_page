@@ -6,7 +6,7 @@ body {
 }
 
 .container {
-    width: 80%;
+    width: 60%;
     margin: 0 auto;
     padding: 20px;
 }
@@ -32,6 +32,7 @@ p {
     text-align: justify;
     font-size: 1.1em;
     margin: 20px 0;
+    line-height: 1.6;
 }
 
 .links {
